@@ -52,7 +52,7 @@ python main.py
 Explanation of Code Sections:
 TwoDimensionalArray Class:
 
-## Explanation of Code Sections:
+### Explanation of Code Sections:
 
 #### TwoDimensionalArray Class:
 - Implements a 2D array with methods for:
